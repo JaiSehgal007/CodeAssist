@@ -1,6 +1,6 @@
-# CodeAssist is a Code assistant
+# CodeAssist
 
-It is build using Codellama which is one of the state-of-art open-source model by Meta and Langchain for the backend and Gradio to create the user interface.
+CodeAssist is a Code assistant which is build using Codellama which is one of the state-of-art open-source model by Meta and Langchain for the backend and Gradio to create the user interface.
 
 ## Steps to reproduce the repository
 
